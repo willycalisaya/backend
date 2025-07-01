@@ -1,0 +1,10 @@
+# Ignorar variables secretas
+.env
+
+# Ignorar dependencias
+node_modules/
+
+# Ignorar logs y otros archivos innecesarios
+*.log
+.DS_Store
+.vscode/
